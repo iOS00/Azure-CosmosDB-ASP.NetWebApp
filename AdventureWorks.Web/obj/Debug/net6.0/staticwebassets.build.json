@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "XX0wxOfxs63mXDDqY+ucVxlkmrDsOHiL/PPL9V8v7w8=",
+  "Source": "AdventureWorks.Web",
+  "BasePath": "_content/AdventureWorks.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AdventureWorks.Web\\wwwroot",
+      "Source": "AdventureWorks.Web",
+      "ContentRoot": "C:\\Users\\forte\\AZ-204-DevelopingSolutionsforMicrosoftAzure\\Allfiles\\Labs\\04\\Starter\\AdventureWorks\\AdventureWorks.Web\\wwwroot\\",
+      "BasePath": "_content/AdventureWorks.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\forte\\AZ-204-DevelopingSolutionsforMicrosoftAzure\\Allfiles\\Labs\\04\\Starter\\AdventureWorks\\AdventureWorks.Web\\wwwroot\\mountains.jpg",
+      "SourceId": "AdventureWorks.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\forte\\AZ-204-DevelopingSolutionsforMicrosoftAzure\\Allfiles\\Labs\\04\\Starter\\AdventureWorks\\AdventureWorks.Web\\wwwroot\\",
+      "BasePath": "_content/AdventureWorks.Web",
+      "RelativePath": "mountains.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\mountains.jpg"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H7oax8YfdGZHpk4E0WPDKF1p9IrJVTikc0DHop4+Nw5Dc9oJVXOpxYwsW/Y5rVE0R+Hxsu7tbApmgTFFJxzPvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\forte\\AZ-204-DevelopingSolutionsforMicrosoftAzure\\Allfiles\\Labs\\04\\Starter\\AdventureWorks\\AdventureWorks.Models\\AdventureWorks.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\forte\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

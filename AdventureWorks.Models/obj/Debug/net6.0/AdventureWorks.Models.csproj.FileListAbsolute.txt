@@ -1,0 +1,11 @@
+C:\Users\forte\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Models\bin\Debug\net6.0\AdventureWorks.Models.deps.json
+C:\Users\forte\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Models\bin\Debug\net6.0\AdventureWorks.Models.dll
+C:\Users\forte\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Models\bin\Debug\net6.0\AdventureWorks.Models.pdb
+C:\Users\forte\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Models\obj\Debug\net6.0\AdventureWorks.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forte\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Models\obj\Debug\net6.0\AdventureWorks.Models.AssemblyInfoInputs.cache
+C:\Users\forte\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Models\obj\Debug\net6.0\AdventureWorks.Models.AssemblyInfo.cs
+C:\Users\forte\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Models\obj\Debug\net6.0\AdventureWorks.Models.csproj.CoreCompileInputs.cache
+C:\Users\forte\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Models\obj\Debug\net6.0\AdventureWorks.Models.dll
+C:\Users\forte\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Models\obj\Debug\net6.0\refint\AdventureWorks.Models.dll
+C:\Users\forte\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Models\obj\Debug\net6.0\AdventureWorks.Models.pdb
+C:\Users\forte\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Models\obj\Debug\net6.0\ref\AdventureWorks.Models.dll

@@ -1,0 +1,17 @@
+C:\Users\forte\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\forte\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\forte\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\bin\Debug\net6.0\AdventureWorks.Context.deps.json
+C:\Users\forte\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\bin\Debug\net6.0\AdventureWorks.Context.dll
+C:\Users\forte\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\bin\Debug\net6.0\AdventureWorks.Context.pdb
+C:\Users\forte\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\bin\Debug\net6.0\AdventureWorks.Models.dll
+C:\Users\forte\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\bin\Debug\net6.0\AdventureWorks.Models.pdb
+C:\Users\forte\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\obj\Debug\net6.0\AdventureWorks.Context.csproj.AssemblyReference.cache
+C:\Users\forte\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\obj\Debug\net6.0\AdventureWorks.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forte\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\obj\Debug\net6.0\AdventureWorks.Context.AssemblyInfoInputs.cache
+C:\Users\forte\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\obj\Debug\net6.0\AdventureWorks.Context.AssemblyInfo.cs
+C:\Users\forte\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\obj\Debug\net6.0\AdventureWorks.Context.csproj.CoreCompileInputs.cache
+C:\Users\forte\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\obj\Debug\net6.0\AdventureWorks.Context.csproj.CopyComplete
+C:\Users\forte\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\obj\Debug\net6.0\AdventureWorks.Context.dll
+C:\Users\forte\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\obj\Debug\net6.0\refint\AdventureWorks.Context.dll
+C:\Users\forte\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\obj\Debug\net6.0\AdventureWorks.Context.pdb
+C:\Users\forte\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\obj\Debug\net6.0\ref\AdventureWorks.Context.dll
